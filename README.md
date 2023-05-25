@@ -1,3 +1,3 @@
 # taller-doc
-
-<img scr = ".\img\vale.jpg">
+Vale: 
+<img src = ".\img\vale.jpg"> 
