@@ -2,4 +2,4 @@
 ## Foto seba
 
 
-<img src="[https://media.licdn.com/dms/image/D4E03AQEZT68XO2VnBw/profile-displayphoto-shrink_800_800/0/1681929528444?e=2147483647&v=beta&t=LzLhS5AHfDH0CdlTKrRGFEcmoL2udbNx6WopmIk4ffs](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)"  width="230">
+<img src="https://media.licdn.com/dms/image/D4D03AQFKhr5Md6T3bQ/profile-displayphoto-shrink_200_200/0/1678547851798?e=1687996800&v=beta&t=lRtITXlsmfD3ph2K4XWYzExtTRpOvCb-ipqeTMnLkrU"  width="230">
